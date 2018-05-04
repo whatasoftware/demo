@@ -1,3 +1,4 @@
-{
-  "validLicense":true
+{ 
+  "Lic" :[
+    {"validLicense":"true"} 
 }
